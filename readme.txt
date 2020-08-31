@@ -1,0 +1,1 @@
+This is where my Codeup statistics exercises are stored.
